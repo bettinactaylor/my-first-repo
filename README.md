@@ -1,5 +1,6 @@
 # My PartyRock app ideas
 # my-first-repo
+I am excited to learn how to use the GitHub. This is completely new to me.
 
 A practice sandbox for the **AWS MLU Faculty Fellowship** at Delaware State University, College of Agriculture, Science & Technology.
 
